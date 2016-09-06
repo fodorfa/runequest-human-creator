@@ -1,0 +1,29 @@
+STR 11
+CON 9
+DEX 6
+POW 16
+CHA 8
+SIZ 12
+INT 17
+athletics 17
+boating 20
+brawn 23
+conceal 22
+customs 34
+dance 14
+deceit 25
+drive 22
+endurance 18
+evade 12
+first aid 23
+influence 16
+insight 33
+locale 34
+native tongue 25
+perception 33
+ride 22
+sing 24
+stealth 23
+swim 20
+unarmed 17
+willpower 32
